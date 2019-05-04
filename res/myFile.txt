@@ -1,0 +1,5 @@
+Hello, Im a text File.
+You see, im on the new line right now.
+
+and im on the fouth line.
+done!
